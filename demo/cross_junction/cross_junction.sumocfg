@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-04-07 18:11:26 by Eclipse SUMO sumo Version 1.16.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="cross_junction.net.xml"/>
+        <route-files value="cross_junction.rou.xml"/>
+    </input>
+
+</configuration>
