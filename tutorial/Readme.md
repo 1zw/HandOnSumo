@@ -22,7 +22,9 @@ In reinforcement learning, it refers to the action.
 
 - What is Car-following model?(什么是跟驰模型)
 ```
-In sumo, we use modefied Krauss model, which is a kind of safe distance model, due to sumo website say: 'It is purely microscopic: each vehicle is modelled explicitly, has an own route, and moves individually through the network.'
+In sumo, we use modefied Krauss model, which is a kind of safe distance model, 
+due to sumo website say: 'It is purely microscopic: each vehicle is modelled explicitly, 
+has an own route, and moves individually through the network.'
 ```
 For more details, [***look this***](https://zhuanlan.zhihu.com/p/364208270)
 
